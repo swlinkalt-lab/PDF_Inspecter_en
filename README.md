@@ -94,6 +94,16 @@ No technical knowledge is required — just select a folder, enter your keywords
 
 ---
 
+## 💰 Pricing
+
+- **Single PC License**: $199 USD (one-time purchase)  
+- **Additional PC License**: $149 USD per additional PC  
+- **Optional Support & Updates Renewal (after 1 year)**: $49 USD per year  
+
+> Purchase includes one year of updates and support.
+
+---
+
 ## 🔄 Updates & Support
 
 ### First Year
