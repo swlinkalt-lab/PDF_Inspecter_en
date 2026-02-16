@@ -137,7 +137,7 @@
 
 ## 📩 問い合わせ / Contact
 
-**support@example.com**  
+**swlinkalt@example.com**  
 
 ---
 
