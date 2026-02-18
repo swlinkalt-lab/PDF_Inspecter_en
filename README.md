@@ -10,14 +10,21 @@
 
 ## 🚨 Important Notice
 
-**PDF Inspector Business is NOT a legal-grade document comparison tool.**  
-It is designed to **quickly identify PDF files likely to contain your keywords**, helping professionals save hours of manual review.  
+**PDF Inspector Business is a professional bulk PDF keyword search tool**  
+designed to help users quickly narrow down PDF files  
+that require **human review and verification**.
 
-Perfect for:
+By scanning large numbers of PDFs at once,  
+it identifies files that are **likely to contain specific keywords**,  
+significantly reducing time spent on manual checking.
 
-- Professionals managing **hundreds of PDFs** daily  
-- Teams reviewing **contracts, reports, specifications**  
-- Anyone looking to **cut hours off repetitive PDF checks**
+### Ideal for
+
+- Professionals managing large volumes of PDF documents  
+- Teams reviewing contracts, reports, and specifications  
+- Anyone looking to cut hours off repetitive PDF review tasks  
+
+---
 <!-- GIF demo -->
 ![PDF Inspector Demo](./assets/demo_en.gif)
 > Focus your time on making decisions, not digging through files.
@@ -25,6 +32,14 @@ Perfect for:
 > "I was facing hundreds of PDFs to review...  
 > Now I can select the files I actually need to check in just minutes!"
 
+---
+### ⚠ Please Note
+
+PDF Inspector Business is **not a legal-grade document comparison tool**  
+and does **not guarantee exact or complete text matching**.
+
+Final decisions and verification should always be performed  
+by a **human reviewer**.
 ---
 
 ## ✅ Who Should Use PDF Inspector Business
