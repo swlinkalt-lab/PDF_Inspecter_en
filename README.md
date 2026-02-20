@@ -191,6 +191,6 @@ PDF Inspector Business **turns “read everything” into “review only what ma
 ---
 
 💡 **Key Takeaways**  
-- Cut human review workload by **50–70%**  
+- Cut human review workload by **50–90%**  
 - Check large PDF collections **fast, securely, and in bulk**  
 - Ideal for legal, sales, and administrative departments
